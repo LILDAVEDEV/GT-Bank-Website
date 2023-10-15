@@ -372,7 +372,7 @@ header{
     line-height: 3.875rem;
     width: 75%;
     margin-bottom: 30px;
-    border: 5px solid black;
+    /* border: 5px solid black; */
 }
 .desktop-slide-1-text h1 span{
     color: #dd4f05;
